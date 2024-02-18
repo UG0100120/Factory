@@ -1,0 +1,8 @@
+Model Information:
+* title:	line conveyor
+* source:	https://sketchfab.com/3d-models/line-conveyor-c4a1ba59e8044ad5b6622ab387b13641
+* author:	James70184397 (https://sketchfab.com/James70184397)
+
+Model License:
+* license type:	see viewerUrl (https://sketchfab.com/3d-models/line-conveyor-c4a1ba59e8044ad5b6622ab387b13641)
+* requirements:	see https://sketchfab.com/3d-models/line-conveyor-c4a1ba59e8044ad5b6622ab387b13641

@@ -1,0 +1,8 @@
+Model Information:
+* title:	SHC Factory Hall Renovated
+* source:	https://sketchfab.com/3d-models/shc-factory-hall-renovated-303590b467114391a922e806bdfc1fc5
+* author:	denniswoo1993 (https://sketchfab.com/denniswoo1993)
+
+Model License:
+* license type:	Standard (https://sketchfab.com/licenses)
+* requirements:	see https://sketchfab.com/licenses

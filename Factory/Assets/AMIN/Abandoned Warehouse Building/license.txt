@@ -1,0 +1,8 @@
+Model Information:
+* title:	Abandoned Warehouse Building
+* source:	https://sketchfab.com/3d-models/abandoned-warehouse-building-19a4b9acf5944cf9bc16e34ca56f3b29
+* author:	jimbogies (https://sketchfab.com/jimbogies)
+
+Model License:
+* license type:	Standard (https://sketchfab.com/licenses)
+* requirements:	see https://sketchfab.com/licenses
